@@ -31,3 +31,14 @@ C:\Talent-Competition\Talent\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talen
 C:\Talent-Competition\Talent\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.AssemblyInfo.cs
 C:\Talent-Competition\Talent\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.dll
 C:\Talent-Competition\Talent\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.pdb
+D:\Asp.Net\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.deps.json
+D:\Asp.Net\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.runtimeconfig.json
+D:\Asp.Net\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.runtimeconfig.dev.json
+D:\Asp.Net\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.dll
+D:\Asp.Net\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.pdb
+D:\Asp.Net\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.csprojAssemblyReference.cache
+D:\Asp.Net\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.csproj.CoreCompileInputs.cache
+D:\Asp.Net\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.AssemblyInfoInputs.cache
+D:\Asp.Net\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.AssemblyInfo.cs
+D:\Asp.Net\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.dll
+D:\Asp.Net\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.pdb

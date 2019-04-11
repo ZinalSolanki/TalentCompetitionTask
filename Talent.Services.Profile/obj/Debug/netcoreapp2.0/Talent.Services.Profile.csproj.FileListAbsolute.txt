@@ -37,3 +37,17 @@ C:\Talent-Competition\Talent\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Tal
 C:\Talent-Competition\Talent\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.AssemblyInfo.cs
 C:\Talent-Competition\Talent\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.dll
 C:\Talent-Competition\Talent\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.pdb
+D:\Asp.Net\talent-competition\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.deps.json
+D:\Asp.Net\talent-competition\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.runtimeconfig.json
+D:\Asp.Net\talent-competition\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.runtimeconfig.dev.json
+D:\Asp.Net\talent-competition\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.dll
+D:\Asp.Net\talent-competition\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.pdb
+D:\Asp.Net\talent-competition\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Common.dll
+D:\Asp.Net\talent-competition\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+D:\Asp.Net\talent-competition\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.csprojAssemblyReference.cache
+D:\Asp.Net\talent-competition\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.csproj.CoreCompileInputs.cache
+D:\Asp.Net\talent-competition\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.AssemblyInfoInputs.cache
+D:\Asp.Net\talent-competition\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.AssemblyInfo.cs
+D:\Asp.Net\talent-competition\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.csproj.CopyComplete
+D:\Asp.Net\talent-competition\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.dll
+D:\Asp.Net\talent-competition\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.pdb

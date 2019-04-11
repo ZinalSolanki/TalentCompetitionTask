@@ -37,3 +37,17 @@ C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Ta
 C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.AssemblyInfo.cs
 C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.dll
 C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.pdb
+D:\Asp.Net\talent-competition\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.deps.json
+D:\Asp.Net\talent-competition\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.json
+D:\Asp.Net\talent-competition\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.dev.json
+D:\Asp.Net\talent-competition\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.dll
+D:\Asp.Net\talent-competition\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.pdb
+D:\Asp.Net\talent-competition\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Common.dll
+D:\Asp.Net\talent-competition\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+D:\Asp.Net\talent-competition\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.csprojAssemblyReference.cache
+D:\Asp.Net\talent-competition\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.csproj.CoreCompileInputs.cache
+D:\Asp.Net\talent-competition\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.AssemblyInfoInputs.cache
+D:\Asp.Net\talent-competition\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.AssemblyInfo.cs
+D:\Asp.Net\talent-competition\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.csproj.CopyComplete
+D:\Asp.Net\talent-competition\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.dll
+D:\Asp.Net\talent-competition\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.pdb

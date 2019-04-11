@@ -6,6 +6,7 @@ import moment from 'moment';
 export class JobSummaryCard extends React.Component {
     constructor(props) {
         super(props);
+
         this.selectJob = this.selectJob.bind(this)
     }
 
@@ -15,5 +16,6 @@ export class JobSummaryCard extends React.Component {
     }
 
     render() {
+
     }
 }
